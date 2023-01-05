@@ -1,13 +1,3 @@
-/* style guide */
-
-/*
-The designs were created to the following widths:
-- Mobile: 375px
-- Desktop: 1440px 
-- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
-- Weights: 200, 400, 600
-*/
-
 :root {
   --clr-red: hsl(0, 78%, 62%);
   --clr-cyan: hsl(180, 62%, 55%);
@@ -79,6 +69,7 @@ header {
   max-width: 500px;
 }
 
+/* center elements in grid-area */
 header,
 .card-1,
 .card-2,
